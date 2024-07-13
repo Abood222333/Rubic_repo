@@ -23,6 +23,8 @@ ry8.shapesize(stretch_len=2, stretch_wid=2)
 ry8.penup()
 ry8.goto(x=-50,y=100)
 
+
+
 ry1 = turtle.Turtle()
 ry1.speed(0)
 ry1.shape("square")
